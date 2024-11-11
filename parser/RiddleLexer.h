@@ -1,5 +1,5 @@
 
-// Generated from C:/Users/wangz/CLionProjects/Riddle-Language/RiddleLexer.g4 by ANTLR 4.13.1
+// Generated from Riddle-Language/RiddleLexer.g4 by ANTLR 4.13.1
 
 #pragma once
 
